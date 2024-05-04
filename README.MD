@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/cybersecurity.jpg">
+    <img src="assets/cybersecurity.jpg">
 </p>
 
 
