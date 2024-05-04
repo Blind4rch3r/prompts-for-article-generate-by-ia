@@ -18,42 +18,55 @@
 </p>
 
 
-# Projeto E-BOOK Gerado por I.A.s
+# Projeto de Artigo Técnico Gerado por I.A.s
 
  > **NOTE:** Este repositório foi desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
-<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now">Clique aqui para ler</a>
+<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now">Clique aqui para ler o artigo</a>
 
 
 ## Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/)
-- [LibreOffice - Impress](https://www.libreoffice.org/discover/impress/)
+- [ChatGPT](https://chat.openai.com/) Para título e conteúdo
+- [Lexica.art](https://lexica.art/) Para as imagens
+- [LibreOffice - Impress](https://www.libreoffice.org/discover/impress/) Para formatação e layout
+- [Carbon](https://carbon.now.sh/) Para gerar imagens dos códigos
 
 
-## Prompts
+## Prompts e Ferramentas
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie sugestões para de título para um e-book, para pessoas leigas em tecnologia, para criar uma conta gov.br |
-| conteúdo | Faça um texto para ebook , com foco em serviços digitais governamentais, listando um passo a passo completo com exemplos em de como criar uma "conta gov.br" "crie mais conteudo" |
+| Título e Conteúdo | Comporte-se como um escritor de artigos sobre binary exploitation e escreva um artigo com as regras abaixo.
+{REGRAS}
+> Escreva com profundidade técnica
+> Cite exemplos de código na linguagem C e Assembly 64 bits
+> O código em Assembly deve ser um disassembly feito com radare2
+> Crie um exploit utilizando a linguagem python e o módulo pwntools
+> Faça um call to action para as minhas redes sociais
+> Crie 3 hashtags relacionadas a postagem |
 
+Lexica.art:
+- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
+TODO
 
 ## Features
 
 - Conteúdo gerado via ChatGPT
-- Imagem retirada da página de login da conta gov.br
+- Imagem dos códigos gerados no Carbon Now.
+- Imagem retirada do acervo público geradas via Lexica.art
+
+Prompt da Imagem via Lexica.art:
+A human brain computer interface, organic, neural networks, arrays, modular, electrons, nanotechnology, tiny machines, primes, mathematical, microscopic, hard surface, chemical reaction, EMF, ultra-fine detail, elaborate patterns, intricate designs, particles, ultrasharp, electromagnatism, brownian motion, realistic photography, 4k professional photography
 
 
 ## Materiais
 
-- Imagens utilizadas em `assets`
-- e-book gerado com template em `output`
-
+- Prompts utilizados
 
 ## Instruções de execução
 
