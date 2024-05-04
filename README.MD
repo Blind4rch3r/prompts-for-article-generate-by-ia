@@ -24,7 +24,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
-<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now">Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/mergulhando-na-arte-da-exploracao-de-binarios" title="Leia o Artigo">Clique aqui para ler o artigo</a>
 
 
 ## Tecnologias utilizadas no projeto
@@ -44,9 +44,8 @@ ChatGPT：
 | Título e Conteúdo | Comporte-se como um escritor de artigos sobre binary exploitation e escreva um artigo com as regras abaixo. {REGRAS} Escreva com profundidade técnica, Cite exemplos de código na linguagem C e Assembly 64 bits, O código em Assembly deve ser um disassembly feito com radare2, Crie um exploit utilizando a linguagem python e o módulo pwntools, Faça um call to action para as minhas redes sociais, Crie 3 hashtags relacionadas a postagem |
 
 Lexica.art:
-- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram: "hacking code banner"
-- Prompt da Imagem via Lexica.art:
-"A human brain computer interface, organic, neural networks, arrays, modular, electrons, nanotechnology, tiny machines, primes, mathematical, microscopic, hard surface, chemical reaction, EMF, ultra-fine detail, elaborate patterns, intricate designs, particles, ultrasharp, electromagnatism, brownian motion, realistic photography, 4k professional photography"
+- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram: "software purple banner"
+- Prompt da Imagem no site Lexica.art: "a network made up of a single connection, 8k, purple theme"
 
 
 ## Features
