@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/cybersecurity.jpg">
+    <img src="assets/banner.png">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/conta_govbr_v2.jpg"
+    src="./assets/cybersecurity.jpg"
     width="400"  
 />
 </p>
