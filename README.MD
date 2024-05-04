@@ -42,7 +42,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Título e Conteúdo | Comporte-se como um escritor de artigos sobre binary exploitation e escreva um artigo com as regras abaixo.
-{REGRAS}
+| {REGRAS}
 > Escreva com profundidade técnica
 > Cite exemplos de código na linguagem C e Assembly 64 bits
 > O código em Assembly deve ser um disassembly feito com radare2
