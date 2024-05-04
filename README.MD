@@ -42,13 +42,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Título e Conteúdo | Comporte-se como um escritor de artigos sobre binary exploitation e escreva um artigo com as regras abaixo.
-| {REGRAS}
-> Escreva com profundidade técnica
-> Cite exemplos de código na linguagem C e Assembly 64 bits
-> O código em Assembly deve ser um disassembly feito com radare2
-> Crie um exploit utilizando a linguagem python e o módulo pwntools
-> Faça um call to action para as minhas redes sociais
-> Crie 3 hashtags relacionadas a postagem |
+| {REGRAS} Escreva com profundidade técnica, Cite exemplos de código na linguagem C e Assembly 64 bits, O código em Assembly deve ser um disassembly feito com radare2, Crie um exploit utilizando a linguagem python e o módulo pwntools, Faça um call to action para as minhas redes sociais, Crie 3 hashtags relacionadas a postagem |
 
 Lexica.art:
 - No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
