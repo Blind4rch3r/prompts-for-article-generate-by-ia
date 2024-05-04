@@ -20,7 +20,7 @@
 
 # Projeto de Artigo Técnico Gerado por I.A.s
 
- > **NOTE:** Este repositório foi desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
+ **NOTA:** Este repositório foi desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
@@ -44,8 +44,10 @@ ChatGPT：
 | Título e Conteúdo | Comporte-se como um escritor de artigos sobre binary exploitation e escreva um artigo com as regras abaixo. {REGRAS} Escreva com profundidade técnica, Cite exemplos de código na linguagem C e Assembly 64 bits, O código em Assembly deve ser um disassembly feito com radare2, Crie um exploit utilizando a linguagem python e o módulo pwntools, Faça um call to action para as minhas redes sociais, Crie 3 hashtags relacionadas a postagem |
 
 Lexica.art:
-- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
-TODO
+- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram: "hacking code banner"
+- Prompt da Imagem via Lexica.art:
+"A human brain computer interface, organic, neural networks, arrays, modular, electrons, nanotechnology, tiny machines, primes, mathematical, microscopic, hard surface, chemical reaction, EMF, ultra-fine detail, elaborate patterns, intricate designs, particles, ultrasharp, electromagnatism, brownian motion, realistic photography, 4k professional photography"
+
 
 ## Features
 
@@ -53,13 +55,11 @@ TODO
 - Imagem dos códigos gerados no Carbon Now.
 - Imagem retirada do acervo público geradas via Lexica.art
 
-Prompt da Imagem via Lexica.art:
-A human brain computer interface, organic, neural networks, arrays, modular, electrons, nanotechnology, tiny machines, primes, mathematical, microscopic, hard surface, chemical reaction, EMF, ultra-fine detail, elaborate patterns, intricate designs, particles, ultrasharp, electromagnatism, brownian motion, realistic photography, 4k professional photography
-
 
 ## Materiais
 
 - Prompts utilizados
+
 
 ## Instruções de execução
 
